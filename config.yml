@@ -1,0 +1,11 @@
+## Config test
+test:
+  prop1: prop
+  prop2: prop
+  propN: 
+  	prop1: prop
+    prop2: prop
+  propArr:
+    - 1
+    - 2
+    - 3
